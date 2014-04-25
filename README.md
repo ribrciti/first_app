@@ -10,5 +10,9 @@ by [Michael Hartl](http://michaelhartl.com/).
 #test 2:
 #this is a test to create a branch
 
+<<<<<<< HEAD
 #test 3
 #adding a third line for branch 3
+=======
+#test 4
+#adding a 4th test to README3 after properly checking it out
