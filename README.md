@@ -9,3 +9,6 @@ by [Michael Hartl](http://michaelhartl.com/).
 
 #test 2:
 #this is a test to create a branch
+
+#test 3
+#adding a third line for branch 3
