@@ -7,3 +7,5 @@ by [Michael Hartl](http://michaelhartl.com/).
 #test 1:
 #This is a test of git to practice branching, editing, and merging files.
 
+#test 2:
+#this is a test to create a branch
